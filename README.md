@@ -4,7 +4,7 @@
 
 ## PROJECT NAME:
 
-Complaints to Clarity: Tableau Financial Dashboard - - A Complete KPI Analysis Project
+Complaints to Clarity: Tableau Financial Dashboard - A Complete KPI Analysis Project
 
 ## ABOUT PROJECT:
 
@@ -13,7 +13,7 @@ This project is a Tableau dashboard that tracks financial complaints and shows t
 
 
 ###  1. Purpose: 
-This dashboard analyzes financial consumer complaints to uncover why customers are unhappy and suggest fixes, using an interactive Tableau tool that updates with fresh data.
+This dashboard analyzes financial consumer complaints to uncover why customers are unhappy and suggest fixes using an interactive Tableau tool that updates with fresh data.
 
    
 ### 2. End Result:
@@ -39,15 +39,8 @@ We want an automated dashboard that quickly tracks all complaints, shows trends,
    8. Percentage of complaints involving customer disputes.
 
 ## DASHBOARD:
+![FC OVERVIEW WHITE](https://user-images.githubusercontent.com/124501309/224550453-852c3457-bd5a-4b7a-9027-7e1ddc31fae8.png)
 
-![FC OVERVIEW WHITE](https://drive.google.com/file/d/1WqXWbCCWcto4hc7CC4OAEbabdTnFrPSV/view?usp=drive_link)
-
-## Enlarged Part of Each Section of Dashboard
-![FC OVERVIEW WHITE](https://drive.google.com/file/d/1jkNiXp5HEYOQS6U_KRNGEXrrHNDUalgU/view?usp=drive_link)
-![FC OVERVIEW WHITE](https://drive.google.com/file/d/1Qa5owVUYYA6OgMMLFv8VDxokkt4_zwWG/view?usp=drive_link)
-![FC OVERVIEW WHITE](https://drive.google.com/file/d/1lg9ZpT9sJIFpxn8GyCyfkzKRCU3epcii/view?usp=drive_link)
-![FC OVERVIEW WHITE](https://drive.google.com/file/d/1q7-wVCxLbUyfVYYzo_AYKcPxkge1sUnD/view?usp=drive_link)
-![FC OVERVIEW WHITE](https://drive.google.com/file/d/1yNlfu5f2bbZaVDywNmm_odEV_b89U7q2/view?usp=drive_link)
 
 
 ### OVERVIEW OF VISUALIZATION:
